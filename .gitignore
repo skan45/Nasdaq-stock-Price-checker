@@ -1,6 +1,5 @@
 /node_modules/
 sample.env
 netlify.toml
-package-lock.json
 yarn.lock
 /dist/
