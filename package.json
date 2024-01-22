@@ -16,8 +16,10 @@
 		"helmet": "^3.1.0",
 		"mocha": "^3.2.0",
 		"mongoose": "^8.1.0",
+		"netlify-lambda": "^2.0.16",
 		"node-fetch": "^2.6.1",
-		"nodemon": "^3.0.3"
+		"nodemon": "^3.0.3",
+		"serverless-http": "^3.2.0"
 	},
 	"repository": {
 		"type": "git",
